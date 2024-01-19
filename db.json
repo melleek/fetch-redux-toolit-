@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "fara",
+      "email": "kjf",
+      "comp": false,
+      "id": 1
+    },
+    {
+      "name": "fara",
+      "email": "kjf",
+      "comp": true,
+      "id": 2
+    },
+    {
+      "name": "edcx",
+      "email": "gmail",
+      "comp": true,
+      "id": 3
+    }
+  ]
+}
